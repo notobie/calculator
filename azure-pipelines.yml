@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: az400m05105a-pool
+  name: az400m05l05a-pool
 
 steps:
 - task: NodeTool@0
